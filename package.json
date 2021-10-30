@@ -1,0 +1,7 @@
+{
+  "name": "constraint-solver",
+  "version": "0.0.1",
+  "dependencies": {
+    "deep-clone": "latest"
+  }
+}
